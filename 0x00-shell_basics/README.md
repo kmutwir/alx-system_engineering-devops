@@ -39,3 +39,5 @@ absolute path name of the current working directory.
     letter to directory `/tmp/u`.
 16. [101-clean_emacs](./101-clean_emacs) - Delete all files in current working
     directory that end with character `~`.
+17. [102-tree](./102-tree) - Create directories `welcome/`, `welcome/to/`
+    and `welcome/to/school` in the current directory.
