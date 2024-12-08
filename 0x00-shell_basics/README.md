@@ -41,3 +41,7 @@ absolute path name of the current working directory.
     directory that end with character `~`.
 17. [102-tree](./102-tree) - Create directories `welcome/`, `welcome/to/`
     and `welcome/to/school` in the current directory.
+18. [103-commas](./103-commas) - List **all** files and directories in current
+    directory separated by commas, end directory's names with a `/`, sort the
+    listing alphabetically with `.` and `..` coming first. End the listing
+    with a new line
