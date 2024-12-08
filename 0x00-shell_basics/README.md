@@ -16,4 +16,5 @@ absolute path name of the current working directory.
 5. [5-listfilesdigitonly](./5-listfilesdigitonly) - Display **all** current
    directory contents in long format with user and group IDs displayed
    numerically.
-
+6. [6-firstdirectory](./6-firstdirectory) - Create directory
+   `my_first_directory` inside `/tmp/` directory.
