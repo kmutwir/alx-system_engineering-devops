@@ -37,3 +37,5 @@ absolute path name of the current working directory.
     or were newer than the versions in the parent.
 15. [100-lets_move](./100-lets_move) - Move all files beginning with uppercase
     letter to directory `/tmp/u`.
+16. [101-clean_emacs](./101-clean_emacs) - Delete all files in current working
+    directory that end with character `~`.
