@@ -13,3 +13,7 @@ absolute path name of the current working directory.
    format.
 4. [4-listmorefiles](./4-listmorefiles) - Display current directory contents
    including hidden files (starting with `.`) using long format.
+5. [5-listfilesdigitonly](./5-listfilesdigitonly) - Display **all** current
+   directory contents in long format with user and group IDs displayed
+   numerically.
+
