@@ -22,3 +22,6 @@ absolute path name of the current working directory.
    to `/tmp/my_first_directory`.
 8. [8-firstdelete](./8-firstdelete) - Delete the file betty located inside
    `/tmp/my_first_directory`
+9. [9-firstdirdeletion](./9-firstdirdeletion) - Delete directory
+   `my_first_directory` that is inside `/tmp` directory.
+
