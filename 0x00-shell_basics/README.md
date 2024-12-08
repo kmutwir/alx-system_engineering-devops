@@ -25,3 +25,6 @@ absolute path name of the current working directory.
 9. [9-firstdirdeletion](./9-firstdirdeletion) - Delete directory
    `my_first_directory` that is inside `/tmp` directory.
 10. [10-back](./10-back) - Change working directory to the previous one.
+11. [11-lists](./11-lists) - List **all** files in current directory
+    the parent of the working directory and the `/boot` directory
+    (in this order), in long format.
