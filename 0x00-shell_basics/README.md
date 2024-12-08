@@ -28,3 +28,5 @@ absolute path name of the current working directory.
 11. [11-lists](./11-lists) - List **all** files in current directory
     the parent of the working directory and the `/boot` directory
     (in this order), in long format.
+12. [12-file_type](./12-file_type) - Print the type of the file `iamafile`
+    located in the `/tmp` directory.
