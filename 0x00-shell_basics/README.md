@@ -20,3 +20,5 @@ absolute path name of the current working directory.
    `my_first_directory` inside `/tmp/` directory.
 7. [7-movethatfile](./7-movethatfile) - Move the file `betty` from `/tmp/`
    to `/tmp/my_first_directory`.
+8. [8-firstdelete](./8-firstdelete) - Delete the file betty located inside
+   `/tmp/my_first_directory`
