@@ -11,3 +11,5 @@ absolute path name of the current working directory.
    user’s home directory.
 3. [3-listfiles](./3-listfiles) - Display current directory contents in long
    format.
+4. [4-listmorefiles](./4-listmorefiles) - Display current directory contents
+   including hidden files (starting with `.`) using long format.
