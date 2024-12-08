@@ -9,3 +9,5 @@ absolute path name of the current working directory.
 1. [1-listit](./1-listit) - Display the contents list of current directory.
 2. [2-bring_me_home](./2-bring_me_home) - Change the working directory to
    user’s home directory.
+3. [3-listfiles](./3-listfiles) - Display current directory contents in long
+   format.
