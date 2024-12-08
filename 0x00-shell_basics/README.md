@@ -30,3 +30,5 @@ absolute path name of the current working directory.
     (in this order), in long format.
 12. [12-file_type](./12-file_type) - Print the type of the file `iamafile`
     located in the `/tmp` directory.
+13. [13-symbolic_link](./13-symbolic_link) - Create a symbolic link to `/bin/ls`
+    named `__ls__`.
