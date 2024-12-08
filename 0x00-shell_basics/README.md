@@ -35,3 +35,5 @@ absolute path name of the current working directory.
 14. [14-copy_html](./14-copy_html) - Copy all the HTML files from current
     working directory to its parent, but only copy files that did not exist
     or were newer than the versions in the parent.
+15. [100-lets_move](./100-lets_move) - Move all files beginning with uppercase
+    letter to directory `/tmp/u`.
