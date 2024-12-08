@@ -32,3 +32,6 @@ absolute path name of the current working directory.
     located in the `/tmp` directory.
 13. [13-symbolic_link](./13-symbolic_link) - Create a symbolic link to `/bin/ls`
     named `__ls__`.
+14. [14-copy_html](./14-copy_html) - Copy all the HTML files from current
+    working directory to its parent, but only copy files that did not exist
+    or were newer than the versions in the parent.
