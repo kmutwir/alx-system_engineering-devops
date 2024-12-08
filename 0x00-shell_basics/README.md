@@ -18,3 +18,5 @@ absolute path name of the current working directory.
    numerically.
 6. [6-firstdirectory](./6-firstdirectory) - Create directory
    `my_first_directory` inside `/tmp/` directory.
+7. [7-movethatfile](./7-movethatfile) - Move the file `betty` from `/tmp/`
+   to `/tmp/my_first_directory`.
