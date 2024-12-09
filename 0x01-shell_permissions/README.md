@@ -34,3 +34,6 @@ Bash scripts that perform tasks related to user permissions.
 14. [100-change_owner_and_group](./100-change_owner_and_group) - Change  owner
     to `vincent` and group owner to `staff` for all files and directories in
     the working directory.
+15. [101-symbolic_link_permissions](./101-symbolic_link_permissions) - Change
+    the owner and the group owner of `_hello` (a symbolic link) to `vincent`
+    and `staff` respectively.
