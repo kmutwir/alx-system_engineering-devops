@@ -40,3 +40,5 @@ Bash scripts that perform tasks related to user permissions.
 16. [102-if_only](./102-if_only) - Change owner of file `hello` to `betty`
     only if it is owned by user `guillaume`.
 
+17. [103-Star_Wars](./103-Star_Wars) - Play the StarWars IV episode in the
+    terminal.
