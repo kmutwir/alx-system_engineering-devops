@@ -10,3 +10,4 @@ Bash scripts that perform tasks related to user permissions.
 2. [2-groups](./2-groups) - Print all the groups the current user is part of.
 3. [3-new_owner](./3-new_owner) - Change owner of file `hello` to the user
    `betty`.
+4. [4-empty](./4-empty) - Create an empty file called `hello`.
