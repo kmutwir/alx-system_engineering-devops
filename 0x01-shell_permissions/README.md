@@ -11,3 +11,4 @@ Bash scripts that perform tasks related to user permissions.
 3. [3-new_owner](./3-new_owner) - Change owner of file `hello` to the user
    `betty`.
 4. [4-empty](./4-empty) - Create an empty file called `hello`.
+5. [5-execute](./5-execute) - Add execute permission to owner of file `hello`.
