@@ -31,3 +31,6 @@ Bash scripts that perform tasks related to user permissions.
     ` my_dir` with permissions `751` in the working directory.
 13. [13-change_group](./13-change_group) - Change group owner to `school` for
     the file `hello`.
+14. [100-change_owner_and_group](./100-change_owner_and_group) - Change  owner
+    to `vincent` and group owner to `staff` for all files and directories in
+    the working directory.
