@@ -37,3 +37,6 @@ Bash scripts that perform tasks related to user permissions.
 15. [101-symbolic_link_permissions](./101-symbolic_link_permissions) - Change
     the owner and the group owner of `_hello` (a symbolic link) to `vincent`
     and `staff` respectively.
+16. [102-if_only](./102-if_only) - Change owner of file `hello` to `betty`
+    only if it is owned by user `guillaume`.
+
