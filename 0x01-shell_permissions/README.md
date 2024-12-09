@@ -17,3 +17,7 @@ Bash scripts that perform tasks related to user permissions.
    `hello`.
 7. [7-everybody](./7-everybody) - Add execution permission to owner, group owner
    and other users, for the file `hello`
+8. [8-James_Bond](./8-James_Bond) - Set permission to file `hello` as follows:
+   - Owner: no permission at all
+   - Group: no permission at all
+   - Other users: all the permissions
