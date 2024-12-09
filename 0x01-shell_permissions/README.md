@@ -22,3 +22,5 @@ Bash scripts that perform tasks related to user permissions.
    - Group: no permission at all
    - Other users: all the permissions
 9. [9-John_Doe](./9-John_Doe) - Set the mode of the file hello to `-rwxr-x-wx`
+10. [10-mirror_permissions](./10-mirror_permissions) - Set the mode of file
+    `hello` the same as `olleh`’s mode.
