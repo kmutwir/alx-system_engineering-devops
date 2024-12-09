@@ -15,3 +15,5 @@ Bash scripts that perform tasks related to user permissions.
 6. [6-multiple_permissions](./6-multiple_permissions) - Add execute permission
    to owner and group owner, and read permission to other users, to file
    `hello`.
+7. [7-everybody](./7-everybody) - Add execution permission to owner, group owner
+   and other users, for the file `hello`
