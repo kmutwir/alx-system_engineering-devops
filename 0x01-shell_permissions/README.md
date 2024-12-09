@@ -27,3 +27,5 @@ Bash scripts that perform tasks related to user permissions.
 11. [11-directories_permissions](./11-directories_permissions) - Add execute
     permission to all subdirectories of current directory for owner, group owner
     and all other users. Regular files should not be changed.
+12. [12-directory_permissions](./12-directory_permissions) - Create a directory
+    ` my_dir` with permissions `751` in the working directory.
