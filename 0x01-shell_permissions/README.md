@@ -29,3 +29,5 @@ Bash scripts that perform tasks related to user permissions.
     and all other users. Regular files should not be changed.
 12. [12-directory_permissions](./12-directory_permissions) - Create a directory
     ` my_dir` with permissions `751` in the working directory.
+13. [13-change_group](./13-change_group) - Change group owner to `school` for
+    the file `hello`.
