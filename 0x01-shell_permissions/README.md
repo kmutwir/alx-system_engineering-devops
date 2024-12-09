@@ -21,3 +21,4 @@ Bash scripts that perform tasks related to user permissions.
    - Owner: no permission at all
    - Group: no permission at all
    - Other users: all the permissions
+9. [9-John_Doe](./9-John_Doe) - Set the mode of the file hello to `-rwxr-x-wx`
