@@ -12,3 +12,6 @@ Bash scripts that perform tasks related to user permissions.
    `betty`.
 4. [4-empty](./4-empty) - Create an empty file called `hello`.
 5. [5-execute](./5-execute) - Add execute permission to owner of file `hello`.
+6. [6-multiple_permissions](./6-multiple_permissions) - Add execute permission
+   to owner and group owner, and read permission to other users, to file
+   `hello`.
