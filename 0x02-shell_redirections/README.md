@@ -15,3 +15,5 @@ Bash scripts to perform tasks related to
 7. [7-file](./7-file) - Create a file named exactly
    `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School`
    ending by a new line.
+8. [8-cwd_state](./8-cwd_state) - Redirect the ouput of the command `ls -la` to
+   file `ls_cwd_content`.
