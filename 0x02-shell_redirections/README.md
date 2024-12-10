@@ -17,3 +17,5 @@ Bash scripts to perform tasks related to
    ending by a new line.
 8. [8-cwd_state](./8-cwd_state) - Redirect the ouput of the command `ls -la` to
    file `ls_cwd_content`.
+9. [9-duplicate_last_line](./9-duplicate_last_line) - Duplicate the last line
+   of the file `iacta`.
