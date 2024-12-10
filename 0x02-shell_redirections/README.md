@@ -6,4 +6,6 @@ Bash scripts to perform tasks related to
 0. [0-hello_world](./0-hello_world) - Print “Hello, World”, followed by a new
    line to the standard output.
 1. [1-confused_smiley](./1-confused_smiley) - Display confused smiley `"(Ôo)'`.
-2. [2-hellofile](./2-hellofile) - Display the content of the /etc/passwd file.
+2. [2-hellofile](./2-hellofile) - Display the content of the `/etc/passwd` file.
+3. [3-twofiles](./3-twofiles) - Display the content of `/etc/passwd` and
+   `/etc/hosts`.
