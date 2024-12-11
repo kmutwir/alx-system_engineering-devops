@@ -35,3 +35,5 @@ Bash scripts to perform tasks related to
     `root` from the file `/etc/passwd`.
 15. [15-countthatword](./15-countthatword) - Display the number of lines that
     contain the pattern `bin` in the file `/etc/passwd`.
+16. [16-whatsnext](./16-whatsnext) - Display lines containing pattern `root`
+    and 3 lines after them in the file `/etc/passwd`.
