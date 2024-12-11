@@ -43,3 +43,4 @@ Bash scripts to perform tasks related to
     `/etc/ssh/sshd_config` starting with a letter (upper and lower).
 19. [19-AZ](./19-AZ) - Replace all characters `A` and `c` from input to `Z`
     and `e` respectively.
+20. [20-hiago](./20-hiago) - Remove all letters `c` and `C` from input.
