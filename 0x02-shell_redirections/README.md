@@ -27,3 +27,7 @@ Bash scripts to perform tasks related to
     directories.
 12. [12-newest_files](./12-newest_files) - Display the 10 newest files in
     current directory, one file per line, sorted from the newest to the oldest.
+13. [13-unique](./13-unique) - Print only words that appear exactly once.
+    - Input format: One line, one word.
+    - Output format: One line, one word.
+    - Words should be sorted.
