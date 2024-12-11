@@ -31,3 +31,5 @@ Bash scripts to perform tasks related to
     - Input format: One line, one word.
     - Output format: One line, one word.
     - Words should be sorted.
+14. [14-findthatword](./14-findthatword) - Display lines containing the pattern
+    `root` from the file `/etc/passwd`.
