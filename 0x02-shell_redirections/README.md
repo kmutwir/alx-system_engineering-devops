@@ -39,3 +39,5 @@ Bash scripts to perform tasks related to
     and 3 lines after them in the file `/etc/passwd`.
 17. [17-hidethisword](./17-hidethisword) - Display all lines in file
     `/etc/passwd that do not contain the pattern `bin`.
+18. [18-letteronly](./18-letteronly) - Display all lines of file
+    `/etc/ssh/sshd_config` starting with a letter (upper and lower).
