@@ -41,3 +41,5 @@ Bash scripts to perform tasks related to
     `/etc/passwd that do not contain the pattern `bin`.
 18. [18-letteronly](./18-letteronly) - Display all lines of file
     `/etc/ssh/sshd_config` starting with a letter (upper and lower).
+19. [19-AZ](./19-AZ) - Replace all characters `A` and `c` from input to `Z`
+    and `e` respectively.
