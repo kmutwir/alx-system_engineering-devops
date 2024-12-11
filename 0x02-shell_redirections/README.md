@@ -25,3 +25,5 @@ Bash scripts to perform tasks related to
 11. [11-directories](./11-directories) - Count number of **all** directories and
     sub-directories in the current directory, except parent and current
     directories.
+12. [12-newest_files](./12-newest_files) - Display the 10 newest files in
+    current directory, one file per line, sorted from the newest to the oldest.
