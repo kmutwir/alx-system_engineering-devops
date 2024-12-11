@@ -44,3 +44,4 @@ Bash scripts to perform tasks related to
 19. [19-AZ](./19-AZ) - Replace all characters `A` and `c` from input to `Z`
     and `e` respectively.
 20. [20-hiago](./20-hiago) - Remove all letters `c` and `C` from input.
+21. [21-reverse](./21-reverse) - Reverse the input.
