@@ -37,3 +37,5 @@ Bash scripts to perform tasks related to
     contain the pattern `bin` in the file `/etc/passwd`.
 16. [16-whatsnext](./16-whatsnext) - Display lines containing pattern `root`
     and 3 lines after them in the file `/etc/passwd`.
+17. [17-hidethisword](./17-hidethisword) - Display all lines in file
+    `/etc/passwd that do not contain the pattern `bin`.
