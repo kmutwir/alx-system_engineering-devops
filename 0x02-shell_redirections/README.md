@@ -22,3 +22,6 @@ Bash scripts to perform tasks related to
 10. [10-no_more_js](./10-no_more_js) - Delete all the regular files
     (not the directories) with a `.js` extension that are in current directory
     and all its subfolders.
+11. [11-directories](./11-directories) - Count number of **all** directories and
+    sub-directories in the current directory, except parent and current
+    directories.
