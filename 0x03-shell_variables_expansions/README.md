@@ -20,3 +20,6 @@ Bash scripts to perform tasks related to shell expansions
 8. [8-true_knowledge](./8-true_knowledge) - Print the result of  addition of
    `128` with the value stored in the environment variable `TRUEKNOWLEDGE`,
    followed by a new line.
+9. [9-divide_and_rule](./9-divide_and_rule) - Print the result of `POWER`
+   divided by `DIVIDE`, followed by a new line. POWER and DIVIDE are
+   environment variables.
