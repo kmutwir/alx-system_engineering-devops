@@ -9,3 +9,4 @@ Bash scripts to perform tasks related to shell expansions
    current Linux user.
 3. [2-path](./2-path) - Add `/action` to the `PATH` (A colon-separated list of
    directories in which the shell looks for commands).
+4. [3-paths](./3-paths) - Count the number of directories in `PATH`.
