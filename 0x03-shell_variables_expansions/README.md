@@ -15,3 +15,5 @@ Bash scripts to perform tasks related to shell expansions
    environment variables, and functions.
 6. [6-create_local_variable](./6-create_local_variable) - Create a new local
    variable: Name: `BEST` Value: `School`.
+7. [7-create_global_variable](./7-create_global_variable) - Create a new global
+   variable: Name: `BEST` Value: `School`.
