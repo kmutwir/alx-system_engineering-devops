@@ -13,3 +13,5 @@ Bash scripts to perform tasks related to shell expansions
 4. [4-global_variables](./4-global_variables) - List environment variables.
 5. [5-local_variables](./5-local_variables) - List all local variables,
    environment variables, and functions.
+6. [6-create_local_variable](./6-create_local_variable) - Create a new local
+   variable: Name: `BEST` Value: `School`.
