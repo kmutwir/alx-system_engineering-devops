@@ -11,3 +11,5 @@ Bash scripts to perform tasks related to shell expansions
    directories in which the shell looks for commands).
 3. [3-paths](./3-paths) - Count the number of directories in `PATH`.
 4. [4-global_variables](./4-global_variables) - List environment variables.
+5. [5-local_variables](./5-local_variables) - List all local variables,
+   environment variables, and functions.
