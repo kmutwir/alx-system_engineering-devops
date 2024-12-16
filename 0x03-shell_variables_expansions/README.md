@@ -23,3 +23,7 @@ Bash scripts to perform tasks related to shell expansions
 9. [9-divide_and_rule](./9-divide_and_rule) - Print the result of `POWER`
    divided by `DIVIDE`, followed by a new line. POWER and DIVIDE are
    environment variables.
+10. [10-love_exponent_breath](./10-love_exponent_breath) - Display the result
+    of `BREATH` to the power `LOVE` followed by a new line.
+    (Both are environment variables).
+
