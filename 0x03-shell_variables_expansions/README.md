@@ -17,3 +17,6 @@ Bash scripts to perform tasks related to shell expansions
    variable: Name: `BEST` Value: `School`.
 7. [7-create_global_variable](./7-create_global_variable) - Create a new global
    variable: Name: `BEST` Value: `School`.
+8. [8-true_knowledge](./8-true_knowledge) - Print the result of  addition of
+   `128` with the value stored in the environment variable `TRUEKNOWLEDGE`,
+   followed by a new line.
