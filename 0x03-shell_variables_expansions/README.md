@@ -26,4 +26,5 @@ Bash scripts to perform tasks related to shell expansions
 10. [10-love_exponent_breath](./10-love_exponent_breath) - Display the result
     of `BREATH` to the power `LOVE` followed by a new line.
     (Both are environment variables).
-
+11. [11-binary_to_decimal](./11-binary_to_decimal) - Convert a number from base
+    2 (stored in the environment variable `BINARY`) to base 10.
