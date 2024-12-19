@@ -45,6 +45,6 @@ absolute path name of the current working directory.
     directory separated by commas, end directory's names with a `/`, sort the
     listing alphabetically with `.` and `..` coming first. End the listing
     with a new line
-19. [school.mgc](./school.mgc) - Create a magic file `school.mgc` that can be
+19. [school.mgc](./school_fragment_magic_file) - Create a magic file `school.mgc` that can be
     used with the command `file` to detect `School data` files. School data
     files always contain the string `SCHOOL` at offset 0.
